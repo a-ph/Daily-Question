@@ -9,3 +9,8 @@ iOS Tips
 
 2：数据存储
 
+plist  nsuserdefault  nskeyedarchiver  sqlite3(FMDB)  core data (不建议使用单独使用，建议项目整体使用)
+
+3：优购 筛选
+
+不过就是多选问题而已。
