@@ -14,3 +14,7 @@ plist  nsuserdefault  nskeyedarchiver  sqlite3(FMDB)  core data (不建议使用
 3：优购 筛选
 
 不过就是多选问题而已。
+
+4：webview 
+
+iOS 8 之后建议使用wkwebview  
