@@ -18,3 +18,9 @@ plist  nsuserdefault  nskeyedarchiver  sqlite3(FMDB)  core data (不建议使用
 4：webview 
 
 iOS 8 之后建议使用wkwebview  
+
+5: avfoundation 
+
+这个框架好乱，要使用需要好多配置
+
+
